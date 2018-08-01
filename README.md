@@ -1,7 +1,8 @@
 # ShowMoreText
 动态设置TextView的maxLines
 
-###设置“展开”文字显示状态
+### 设置“展开”文字显示状态
+
         val layout = desc_tv.layout
         val text = layout.text.toString()
   
